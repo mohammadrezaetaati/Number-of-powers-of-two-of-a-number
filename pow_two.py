@@ -14,7 +14,7 @@ def number_pow_two(num:int):
             pow=0
         pow+=1
         
-    
+          hello  
 
         
 
